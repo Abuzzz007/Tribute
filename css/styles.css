@@ -66,5 +66,6 @@ footer{
 @media (max-width: 505px){
     #Content2 button{
         margin: 0;
+        margin-bottom: 10px;
     }
 }
